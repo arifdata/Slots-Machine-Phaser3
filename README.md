@@ -7,7 +7,7 @@ Loading images via JavaScript module `import` is also supported.
 
 ## Requirements
 
-[Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
+[Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`. Tested using Node version 16.
 
 ## Available Commands
 
